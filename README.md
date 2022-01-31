@@ -1,4 +1,4 @@
-# Data Returner
+# Data-Returner
 This is a data returner. You can use config.json to config the server.
 
 ## Return data
